@@ -1,0 +1,8 @@
+{
+  "title": "MOP-ABE: research prototype, data and benchmark scripts",
+  "upload_type": "software",
+  "description": "Python prototype of a module-LWE key-policy attribute-based encryption scheme with blinded transformation keys and a packed output, together with the raw benchmark data behind the tables and figures of the accompanying paper.",
+  "creators": [{"name": "Riad, Khaled", "affiliation": "King Faisal University", "orcid": "0000-0002-8181-9573"}],
+  "license": "MIT",
+  "keywords": ["attribute-based encryption", "module learning with errors", "outsourced decryption", "post-quantum cryptography", "Internet of Things"]
+}
