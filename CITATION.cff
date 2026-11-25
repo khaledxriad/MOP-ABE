@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying paper."
+title: "MOP-ABE: research prototype of module-lattice packing for outsourced attribute-based encryption"
+type: software
+authors:
+  - family-names: Riad
+    given-names: Khaled
+    orcid: "https://orcid.org/0000-0002-8181-9573"
+    email: kriad@kfu.edu.sa
+    affiliation: "Computer Science Department, College of Computer Sciences & Information Technology, King Faisal University, Al-Ahsa, Saudi Arabia"
+license: MIT
+repository-code: "[repository URL to be set]"
+doi: "[Zenodo DOI to be set]"
+preferred-citation:
+  type: article
+  title: "MOP-ABE: Module-Lattice Packing for Outsourced Attribute-Based Encryption"
+  authors:
+    - family-names: Riad
+      given-names: Khaled
+  journal: "Internet of Things"
+  year: 2026

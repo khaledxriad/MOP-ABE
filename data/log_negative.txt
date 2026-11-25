@@ -1,0 +1,5 @@
+{'test': 'authorized', 'trials': 6, 'bits': 1536, 'mean_ber': 0.0, 'min_ber': 0.0, 'max_ber': 0.0}
+{'test': 'wrong_user_key', 'trials': 6, 'bits': 1536, 'mean_ber': 0.502, 'min_ber': 0.4648, 'max_ber': 0.5742}
+{'test': 'missing_attribute_forged', 'trials': 6, 'bits': 1536, 'mean_ber': 0.4967, 'min_ber': 0.4648, 'max_ber': 0.5234}
+{'test': 'collusion_mixed_keys', 'trials': 6, 'bits': 1536, 'mean_ber': 0.5202, 'min_ber': 0.4883, 'max_ber': 0.5547}
+{'test': 'unblinded_cloud_view', 'trials': 6, 'bits': 1536, 'mean_ber': 0.502, 'min_ber': 0.4844, 'max_ber': 0.5156}

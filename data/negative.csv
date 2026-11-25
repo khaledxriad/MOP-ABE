@@ -1,0 +1,6 @@
+test,trials,bits,mean_ber,min_ber,max_ber
+authorized,6,1536,0.0,0.0,0.0
+wrong_user_key,6,1536,0.5117,0.4844,0.543
+missing_attribute_forged,6,1536,0.5026,0.4688,0.5312
+collusion_mixed_keys,6,1536,0.5059,0.457,0.5469
+unblinded_cloud_view,6,1536,0.4896,0.4336,0.5625

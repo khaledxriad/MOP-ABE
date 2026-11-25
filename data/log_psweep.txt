@@ -1,0 +1,4 @@
+{'w': 1, 'tkgen_ms': 175.48, 'transform_ms': 0.76, 'std_meas': 0.01016, 'std_pred': 0.01038, 'max_meas': 0.03217}
+{'w': 2, 'tkgen_ms': 176.66, 'transform_ms': 2.529, 'std_meas': 0.01477, 'std_pred': 0.01468, 'max_meas': 0.05372}
+{'w': 3, 'tkgen_ms': 190.77, 'transform_ms': 4.111, 'std_meas': 0.01769, 'std_pred': 0.01798, 'max_meas': 0.07185}
+{'w': 4, 'tkgen_ms': 212.25, 'transform_ms': 5.902, 'std_meas': 0.02074, 'std_pred': 0.02076, 'max_meas': 0.07029}
